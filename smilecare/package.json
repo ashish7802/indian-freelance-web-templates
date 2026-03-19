@@ -1,0 +1,27 @@
+{
+  "name": "smilecare-dental-clinic",
+  "version": "1.0.0",
+  "description": "Full-stack dental clinic website with appointment booking, admin dashboard, MongoDB persistence, and email confirmations.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "dental-clinic",
+    "express",
+    "mongodb",
+    "nodemailer",
+    "appointments"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "nodemailer": "^6.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
