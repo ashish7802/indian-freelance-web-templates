@@ -5,8 +5,8 @@
 ### Free, production-ready website templates built for Indian small businesses.
 ### Ready to deploy. Easy to customize. Made with ❤️ in India.
 
-![Stars](https://img.shields.io/github/stars/ashishyadav/indian-freelance-web-templates?style=for-the-badge&color=0d6efd)
-![Forks](https://img.shields.io/github/forks/ashishyadav/indian-freelance-web-templates?style=for-the-badge&color=0d6efd)
+![Stars](https://img.shields.io/github/stars/ashish7802/indian-freelance-web-templates?style=for-the-badge&color=0d6efd)
+![Forks](https://img.shields.io/github/forks/ashish7802/indian-freelance-web-templates?style=for-the-badge&color=0d6efd)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange?style=for-the-badge)
 
@@ -69,7 +69,7 @@ A complete, modern dental clinic website with full backend support.
 
 **Step 1 — Clone the repo**
 ```bash
-git clone https://github.com/ashishyadav/indian-freelance-web-templates.git
+git clone https://github.com/ashish7802/indian-freelance-web-templates.git
 cd indian-freelance-web-templates/smilecare
 ```
 
